@@ -1,0 +1,13 @@
+{
+  "name": "lumen-organic-growth-bot",
+  "version": "1.0.0",
+  "description": "Autonomous Viral Skincare Content Generator & 24h Telegram Bot",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "license": "ISC"
+}
